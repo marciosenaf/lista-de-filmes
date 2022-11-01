@@ -27,16 +27,10 @@ Link do site da API publica: https://api.themoviedb.org/
 
 ```bash
 # clonar repositório
-git clone https://github.com/marciosenaf/marcio-DEVendas
-
-# instalar as dependencias
-npm install
-
-# buildar o projeto
-npm run build
+git clone https://github.com/marciosenaf/lista--de-filmes
 
 # executar o projeto
-npm start
+start index.html
 ```
 
 # Autor

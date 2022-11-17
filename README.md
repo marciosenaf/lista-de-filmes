@@ -8,7 +8,7 @@ Este Projeto e uma aplicacao voltada mais para o front-end q tem como objetivo s
 
 Link do site da API publica: https://api.themoviedb.org/
 
-## Layout no mobile
+## Layout no Mobile
 ![Mobile ](https://github.com/marciosenaf/lista--de-filmes/blob/main/img/mobile.readme.png)
 
 ## Layout no computador
